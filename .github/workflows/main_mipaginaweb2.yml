@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'MipaginaWeb2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB7C4B166E674E63890915DE161CBCDB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A547D3BC77048B0AAF6AA7B4E9BEAC9 }}
           package: .
